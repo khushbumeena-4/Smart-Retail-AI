@@ -185,13 +185,8 @@ streamlit run app.py
 
 # 📸 Screenshots
 
-Add screenshots here:
+<img width="1536" height="1024" alt="retail" src="https://github.com/user-attachments/assets/7a4f3b58-0ff9-498e-910c-07bb6d1b507e" />
 
-- Home Page
-- AI Detection
-- Billing
-- Inventory
-- Receipt PDF
 
 ---
 
